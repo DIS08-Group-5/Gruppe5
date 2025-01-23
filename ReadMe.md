@@ -64,6 +64,7 @@ Diese Fragestellung zielt darauf ab, zu untersuchen, ob Spieler mit einem höher
   - Villarreal CF: [Link](https://www.transfermarkt.de/fc-villarreal/kader/verein/1050/saison_id/2021)
 
 - **Ergebnis:** Datenvisualisierung und klare Erkenntnisse
+- **Präsentation** [Link](https://thkoelnde-my.sharepoint.com/:p:/g/personal/mrosiny_th-koeln_de/EZwC1jO8PtRNlr2NK8hGJfsBzEDhViqX6qnzBj29aSVOAw?rtime=ivKDQrI73Ug)
 
 ---
 
