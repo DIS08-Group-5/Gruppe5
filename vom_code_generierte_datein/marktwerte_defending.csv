@@ -1,0 +1,86 @@
+player_name,market_value,club,first_name,position,balls_recoverd,tackles,t_won,t_lost,clearance_attempted,match_played
+Militão,60.0,Real Madrid,Éder,Defender,76,19,6,13,32,12
+Alaba,55.0,Real Madrid,David,Defender,49,18,12,6,28,12
+Vallejo,3.0,Real Madrid,Jesús,Defender,2,0,0,0,2,2
+Mendy,40.0,Real Madrid,Ferland,Defender,36,6,5,1,15,10
+Gutiérrez,6.0,Real Madrid,Miguel,Defender,1,1,0,1,0,1
+Marcelo,3.0,Real Madrid,Marcelo,Defender,4,0,0,0,3,3
+Carvajal,18.0,Real Madrid,Daniel,Defender,50,12,6,6,30,11
+Vázquez,12.0,Real Madrid,Lucas,Midfielder,13,2,0,2,6,8
+Casemiro,40.0,Real Madrid,Casemiro,Midfielder,76,31,13,18,19,11
+Valverde,70.0,Real Madrid,Federico,Midfielder,29,13,7,6,10,11
+Camavinga,55.0,Real Madrid,Eduardo,Midfielder,19,17,9,8,6,10
+Kroos,20.0,Real Madrid,Toni,Midfielder,37,11,5,6,4,12
+Ceballos,14.0,Real Madrid,Dani,Midfielder,2,2,1,1,1,5
+Hazard,12.0,Real Madrid,Eden,Forward,1,0,0,0,0,3
+Rodrygo,60.0,Real Madrid,Rodrygo,Forward,14,2,1,1,3,11
+Asensio,40.0,Real Madrid,Marco,Forward,3,1,0,1,1,8
+Benzema,30.0,Real Madrid,Karim,Forward,6,1,1,0,10,12
+Jović,16.0,Real Madrid,Luka,Forward,1,0,0,0,0,3
+Van dijk,55.0,Liverpool,Virgil,Defender,62,3,2,1,29,9
+Konaté,40.0,Liverpool,Ibrahima,Defender,53,16,11,5,17,8
+Gomez,18.0,Liverpool,Joe,Defender,14,0,0,0,5,7
+Matip,18.0,Liverpool,Joel,Defender,34,5,1,4,15,7
+Phillips,8.0,Liverpool,Nat,Defender,5,1,1,0,3,2
+Robertson,65.0,Liverpool,Andrew,Defender,44,4,3,1,14,10
+Tsimikas,15.0,Liverpool,Konstantinos,Defender,26,2,1,1,10,5
+Alexander-arnold,80.0,Liverpool,Trent,Defender,51,1,0,1,18,9
+Williams,8.0,Liverpool,Neco,Defender,10,6,2,4,1,3
+Fabinho,60.0,Liverpool,Fabinho,Midfielder,74,23,9,14,8,13
+Morton,3.0,Liverpool,Tyler,Midfielder,9,5,4,1,2,2
+Jones,28.0,Liverpool,Curtis,Midfielder,6,0,0,0,1,4
+Keïta,25.0,Liverpool,Naby,Midfielder,21,8,2,6,7,10
+Alcántara,20.0,Liverpool,Thiago,Midfielder,40,16,11,5,5,10
+Oxlade-chamberlain,16.0,Liverpool,Alex,Midfielder,17,1,1,0,4,6
+Henderson,15.0,Liverpool,Jordan,Midfielder,29,3,1,2,1,12
+Milner,2.0,Liverpool,James,Midfielder,5,6,3,3,6,8
+Mané,70.0,Liverpool,Sadio,Midfielder,9,4,1,3,1,13
+Díaz,65.0,Liverpool,Luis,Forward,16,8,3,5,2,13
+Minamino,12.0,Liverpool,Takumi,Forward,6,2,0,2,0,4
+Salah,90.0,Liverpool,Mohamed,Forward,12,0,0,0,0,13
+Jota,60.0,Liverpool,Diogo,Forward,13,7,2,5,1,11
+Firmino,32.0,Liverpool,Roberto,Midfielder,17,2,1,1,1,7
+Origi,12.0,Liverpool,Divock,Forward,5,1,0,1,0,7
+Dias,75.0,Man. City,Rúben,Defender,45,11,1,10,16,8
+Laporte,45.0,Man. City,Aymeric,Defender,51,5,1,4,17,9
+Stones,28.0,Man. City,John,Defender,33,1,1,0,8,8
+Aké,25.0,Man. City,Nathan,Defender,19,3,3,0,19,6
+Egan-riley,0.8,Man. City,CJ,Defender,3,1,0,1,1,1
+Zinchenko,25.0,Man. City,Oleksandr,Defender,31,6,2,4,8,8
+Cancelo,65.0,Man. City,João,Defender,56,9,6,3,13,9
+Walker,18.0,Man. City,Kyle,Defender,34,3,1,2,11,7
+Rodri,80.0,Man. City,Rodri,Midfielder,52,14,10,4,5,10
+Fernandinho,1.5,Man. City,Fernandinho,Midfielder,17,9,4,5,1,8
+Gündoğan,25.0,Man. City,İlkay,Midfielder,13,6,0,6,2,10
+De bruyne,85.0,Man. City,Kevin,Midfielder,11,6,0,6,2,10
+Silva,80.0,Man. City,Bernardo,Midfielder,25,9,4,5,5,11
+Palmer,6.0,Man. City,Cole,Midfielder,2,0,0,0,0,3
+Mcatee,3.0,Man. City,James,Midfielder,1,1,1,0,0,1
+Grealish,70.0,Man. City,Jack,Midfielder,11,2,0,2,0,7
+Foden,90.0,Man. City,Phil,Midfielder,10,5,1,4,0,11
+Sterling,70.0,Man. City,Raheem,Forward,7,3,0,3,0,12
+Mahrez,35.0,Man. City,Riyad,Midfielder,20,6,1,5,3,12
+Jesus,50.0,Man. City,Gabriel,Forward,6,3,2,1,1,8
+Delap,1.5,Man. City,Liam,Forward,1,0,0,0,0,1
+Torres,50.0,Villarreal,Pau,Defender,49,7,3,4,62,12
+Gaspar,3.0,Villarreal,Mario,Defender,1,0,0,0,2,2
+Albiol,3.0,Villarreal,Raúl,Defender,73,9,6,3,62,12
+Estupiñán,20.0,Villarreal,Pervis,Defender,52,8,4,4,31,10
+Pedraza,18.0,Villarreal,Alfonso,Midfielder,18,4,1,3,9,10
+Moreno,5.0,Villarreal,Alberto,Defender,8,4,0,4,6,7
+Foyth,25.0,Villarreal,Juan,Defender,55,20,10,10,30,10
+Aurier,10.0,Villarreal,Serge,Defender,9,3,1,2,5,5
+Peña,2.5,Villarreal,Rubén,Defender,2,2,1,1,1,2
+Coquelin,5.0,Villarreal,Francis,Midfielder,13,9,3,6,6,8
+Capoue,3.0,Villarreal,Étienne,Midfielder,62,11,1,10,29,12
+Iborra,2.0,Villarreal,Vicente,Midfielder,2,0,0,0,0,1
+Lo celso,22.0,Villarreal,Giovani,Midfielder,21,12,7,5,3,6
+Trigueros,14.0,Villarreal,Manu,Midfielder,8,6,1,5,4,9
+Parejo,9.0,Villarreal,Dani,Midfielder,48,17,8,9,5,12
+Danjuma,50.0,Villarreal,Arnaut,Midfielder,3,1,0,1,5,11
+Gómez,8.0,Villarreal,Moi,Midfielder,5,3,2,1,4,6
+Pino,40.0,Villarreal,Yéremy,Forward,14,10,4,6,0,7
+Chukwueze,20.0,Villarreal,Samuel,Midfielder,5,1,0,1,2,9
+Moreno,40.0,Villarreal,Gerard,Defender,8,4,0,4,6,7
+Dia,12.0,Villarreal,Boulaye,Forward,3,2,2,0,3,8
+Alcácer,9.0,Villarreal,Paco,Forward,2,0,0,0,0,3

@@ -1,0 +1,152 @@
+player_name,market_value,club,first_name
+Courtois,60.0,Real Madrid,Thibaut
+Lunin,2.5,Real Madrid,Andriy
+López,0.3,Real Madrid,Luis
+Fuidias,0.3,Real Madrid,Toni
+Militão,60.0,Real Madrid,Éder
+Alaba,55.0,Real Madrid,David
+Fernández,7.0,Real Madrid,Nacho
+Vallejo,3.0,Real Madrid,Jesús
+Gila,0.5,Real Madrid,Mario
+Marín,0.4,Real Madrid,Rafa
+Mendy,40.0,Real Madrid,Ferland
+Gutiérrez,6.0,Real Madrid,Miguel
+Marcelo,3.0,Real Madrid,Marcelo
+Carvajal,18.0,Real Madrid,Daniel
+Vázquez,12.0,Real Madrid,Lucas
+Odriozola,12.0,Real Madrid,Álvaro
+Santos,0.25,Real Madrid,Sergio
+Casemiro,40.0,Real Madrid,Casemiro
+Blanco,5.0,Real Madrid,Antonio
+Valverde,70.0,Real Madrid,Federico
+Camavinga,55.0,Real Madrid,Eduardo
+Kroos,20.0,Real Madrid,Toni
+Ceballos,14.0,Real Madrid,Dani
+Modric,10.0,Real Madrid,Luka
+Isco,7.5,Real Madrid,Isco
+Junior,100.0,Real Madrid,Vinicius
+Hazard,12.0,Real Madrid,Eden
+Rodrygo,60.0,Real Madrid,Rodrygo
+Asensio,40.0,Real Madrid,Marco
+Bale,3.0,Real Madrid,Gareth
+Federico,1.0,Real Madrid,Peter
+Benzema,30.0,Real Madrid,Karim
+Jović,16.0,Real Madrid,Luka
+Díaz,6.0,Real Madrid,Mariano
+Latasa,1.0,Real Madrid,Juanmi
+Alisson,50.0,Liverpool,Alisson
+Kelleher,8.0,Liverpool,Caoimhín
+Karius,1.5,Liverpool,Loris
+Adrián,1.0,Liverpool,Adrián
+Pitaluga,0.1,Liverpool,Marcelo
+Van dijk,55.0,Liverpool,Virgil
+Konaté,40.0,Liverpool,Ibrahima
+Gomez,18.0,Liverpool,Joe
+Matip,18.0,Liverpool,Joel
+Phillips,8.0,Liverpool,Nat
+Van den berg,5.0,Liverpool,Sepp
+Williams,4.0,Liverpool,Rhys
+Davies,2.5,Liverpool,Ben
+Koumetio,0.8,Liverpool,Billy
+Robertson,65.0,Liverpool,Andrew
+Tsimikas,15.0,Liverpool,Konstantinos
+Beck,0.4,Liverpool,Owen
+Alexander-arnold,80.0,Liverpool,Trent
+Williams,8.0,Liverpool,Neco
+Bradley,1.0,Liverpool,Conor
+Fabinho,60.0,Liverpool,Fabinho
+Morton,3.0,Liverpool,Tyler
+Jones,28.0,Liverpool,Curtis
+Keïta,25.0,Liverpool,Naby
+Elliott,22.0,Liverpool,Harvey
+Alcántara,20.0,Liverpool,Thiago
+Oxlade-chamberlain,16.0,Liverpool,Alex
+Henderson,15.0,Liverpool,Jordan
+Milner,2.0,Liverpool,James
+Dixon-bonner,0.3,Liverpool,Elijah
+Woodburn,1.2,Liverpool,Ben
+Mané,70.0,Liverpool,Sadio
+Díaz,65.0,Liverpool,Luis
+Minamino,12.0,Liverpool,Takumi
+Salah,90.0,Liverpool,Mohamed
+Ojo,2.0,Liverpool,Sheyi
+Gordon,1.5,Liverpool,Kaide
+Blair,0.3,Liverpool,Harvey
+Jota,60.0,Liverpool,Diogo
+Firmino,32.0,Liverpool,Roberto
+Origi,12.0,Liverpool,Divock
+Woltman,0.3,Liverpool,Max
+Ederson,45.0,Man. City,Ederson
+Steffen,6.0,Man. City,Zack
+Carson,0.3,Man. City,Scott
+Dias,75.0,Man. City,Rúben
+Laporte,45.0,Man. City,Aymeric
+Stones,28.0,Man. City,John
+Aké,25.0,Man. City,Nathan
+Sandler,2.0,Man. City,Philippe
+Egan-riley,0.8,Man. City,CJ
+Mbete,0.6,Man. City,Luke
+Burns,0.3,Man. City,Finley
+Zinchenko,25.0,Man. City,Oleksandr
+Wilson-esbrand,0.4,Man. City,Josh
+Cancelo,65.0,Man. City,João
+Walker,18.0,Man. City,Kyle
+Couto,5.0,Man. City,Yan
+Rodri,80.0,Man. City,Rodri
+Lavia,2.0,Man. City,Roméo
+Fernandinho,1.5,Man. City,Fernandinho
+Gomes,1.0,Man. City,Claudio
+Gündoğan,25.0,Man. City,İlkay
+Doyle,2.5,Man. City,Tommy
+De bruyne,85.0,Man. City,Kevin
+Silva,80.0,Man. City,Bernardo
+Palmer,6.0,Man. City,Cole
+Mcatee,3.0,Man. City,James
+Grealish,70.0,Man. City,Jack
+Edozie,0.8,Man. City,Samuel
+Foden,90.0,Man. City,Phil
+Sterling,70.0,Man. City,Raheem
+Torres,45.0,Man. City,Ferran
+Mahrez,35.0,Man. City,Riyad
+Kayky,14.0,Man. City,Kayky
+Jesus,50.0,Man. City,Gabriel
+Delap,1.5,Man. City,Liam
+Rulli,6.0,Villarreal,Gerónimo
+Asenjo,4.0,Villarreal,Sergio
+Álvarez,0.3,Villarreal,Iker
+Jørgensen,0.3,Villarreal,Filip
+Torres,50.0,Villarreal,Pau
+Cuenca,8.0,Villarreal,Jorge
+Mandi,6.0,Villarreal,Aïssa
+Gaspar,3.0,Villarreal,Mario
+Albiol,3.0,Villarreal,Raúl
+De la fuente,0.6,Villarreal,Adrián
+Estupiñán,20.0,Villarreal,Pervis
+Pedraza,18.0,Villarreal,Alfonso
+Moreno,5.0,Villarreal,Alberto
+Tasende,0.5,Villarreal,Dani
+Foyth,25.0,Villarreal,Juan
+Aurier,10.0,Villarreal,Serge
+Peña,2.5,Villarreal,Rubén
+Lanchi,0.2,Villarreal,Lanchi
+Coquelin,5.0,Villarreal,Francis
+Capoue,3.0,Villarreal,Étienne
+Iborra,2.0,Villarreal,Vicente
+Lo celso,22.0,Villarreal,Giovani
+Trigueros,14.0,Villarreal,Manu
+Parejo,9.0,Villarreal,Dani
+Morlanes,5.0,Villarreal,Manu
+García,0.4,Villarreal,Carlo
+Pacheco,0.2,Villarreal,Antonio
+Danjuma,50.0,Villarreal,Arnaut
+Gómez,8.0,Villarreal,Moi
+Iosifov,1.2,Villarreal,Nikita
+Pino,40.0,Villarreal,Yéremy
+Chukwueze,20.0,Villarreal,Samuel
+Raba,0.9,Villarreal,Dani
+Moreno,40.0,Villarreal,Gerard
+Dia,12.0,Villarreal,Boulaye
+Alcácer,9.0,Villarreal,Paco
+Niño,3.0,Villarreal,Fer
+Jackson,1.0,Villarreal,Nicolas
+Carlos arana,0.8,Villarreal,Juan
